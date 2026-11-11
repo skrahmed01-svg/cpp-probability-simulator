@@ -1,4 +1,4 @@
-# Commodity Derivatives Pricing Engine (C++ & Python)
+# Commodity Derivatives Pricing Engine (C++)
 
 A high performance C++ Monte Carlo simulation.
 
